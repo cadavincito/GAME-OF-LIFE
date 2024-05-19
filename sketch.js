@@ -1,13 +1,3 @@
-/*
------ Coding Tutorial by Patt Vira ----- 
-Name: Conway's Game of Life
-Video Tutorial: https://youtu.be/lsWulRIWzdo
-
-Connect with Patt: @pattvira
-https://www.pattvira.com/
-----------------------------------------
-*/
-
 let cols;
 let rows;
 let size = 5;
